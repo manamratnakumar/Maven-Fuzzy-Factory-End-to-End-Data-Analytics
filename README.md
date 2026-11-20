@@ -117,8 +117,5 @@ Maven-Fuzzy-Factory-End-to-End-Data-Analytics/
 The objective of this project is to simulate a real-world data analyst workflow by extracting, cleaning, analyzing, and visualizing e-commerce data to uncover business insights, identify performance gaps, and provide data-driven recommendations that support business growth, profitability, marketing optimization, and customer retention.
 
 ## 📸 Dashboard Previews
-### Executive Overview
-![Executive Overview](06_PowerBI_Dashboard/Executive%20Overview.png)
-
-
+![Executive Overview](./06_PowerBI_Dashboard/Executive%20Overview.png)
 
