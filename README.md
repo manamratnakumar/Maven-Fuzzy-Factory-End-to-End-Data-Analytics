@@ -21,7 +21,7 @@ The objective is to identify performance gaps, uncover growth opportunities, and
 - **Excel** – Data inspection, validation, and preliminary analysis.
 - **GitHub** – Version control, project documentation, and portfolio presentation.
 
-  ## 🔄 Project Workflow
+  🔄 Project Workflow
 
 1. **Problem Statement** – Define business objectives and analytical questions.
 2. **Data Collection** – Collect and understand the raw datasets.
