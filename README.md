@@ -91,13 +91,21 @@ Evaluates customer behavior, website sessions, conversion performance, and repea
 Maven-Fuzzy-Factory-End-to-End-Data-Analytics/
 │
 ├── 01_Problem_Statement/
+
 ├── 02_Data_Collection/
+
 ├── 03_Data_Cleaning/
+
 ├── 04_SQL_Analysis/
+
 ├── 05_Python_Analysis/
+
 ├── 06_PowerBI_Dashboard/
+
 ├── 07_Business_Insights/
+
 ├── 08_Recommendations/
+
 └── README.md
 
 ## 🧠 Skills Demonstrated
