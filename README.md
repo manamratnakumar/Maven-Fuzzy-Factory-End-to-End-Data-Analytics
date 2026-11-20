@@ -118,3 +118,4 @@ The objective of this project is to simulate a real-world data analyst workflow 
 
 ## 📸 Dashboard Previews
 https://github.com/manamratnakumar/Maven-Fuzzy-Factory-End-to-End-Data-Analytics/blob/main/06_PowerBI_Dashboard/Excutive%20Overview.png
+![Executive Overview Dashboard](https://raw.githubusercontent.com/manamratnakumar/Maven-Fuzzy-Factory-End-to-End-Data-Analytics/main/06_PowerBI_Dashboard/Executive%20Overview.png)
