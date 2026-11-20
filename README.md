@@ -136,3 +136,7 @@ The objective of this project is to simulate a real-world data analyst workflow 
 ![Product Performance](https://raw.githubusercontent.com/manamratnakumar/Maven-Fuzzy-Factory-End-to-End-Data-Analytics/main/06_PowerBI_Dashboard/Product%20Perfomance.png)
 
 ![Customer & Website Analytics](https://raw.githubusercontent.com/manamratnakumar/Maven-Fuzzy-Factory-End-to-End-Data-Analytics/main/06_PowerBI_Dashboard/Customer%20%26%20Website%20Analytics.png)
+
+### 📥 Download Interactive Power BI Report
+
+[Download the Maven Fuzzy Factory Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1Na0stM7bgaWJr9ZsfepF6RcXPMXmrZif/view?usp=drive_link)
